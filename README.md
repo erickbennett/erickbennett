@@ -1,3 +1,3 @@
-- 🍡 I’m interested in ... [ coding, denim, physics, books, hiking]
-- 💞️ I’m looking to collaborate on ... [ React Native projects ]
-- 📫 How to reach me ... [ the emails ]
+- I’m interested in ... [ coding, denim, physics, books, hiking]
+- I’m looking to collaborate on ... [ React Native projects ]
+- How to reach me ... [ the emails ]
