@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @erickbennett
-- 👀 I’m interested in ... [ coding, denim, physics, books, hiking]
+- 🧙🏻‍♂️ I’m @erickbennett
+- 🍡 I’m interested in ... [ coding, denim, physics, books, hiking]
 - 🌱 I’m currently learning ... [ humility ]
 - 💞️ I’m looking to collaborate on ... [ React Native projects ]
 - 📫 How to reach me ... [ the emails ]
